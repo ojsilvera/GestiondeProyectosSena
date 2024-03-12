@@ -164,3 +164,69 @@ por el producto.
 
 Al momento de iniciar un proyecto, es conveniente tener un marco de referencia sobre la demanda, para esto es recomendable
 realizar estudios sobre los posibles competidores y el mercado objetivo.
+
+- Factores que inciden en la variabilidad de la demanda
+
+        ● La renta. Influye en la cantidad de un producto que pueden comprar los consumidores a un precio determinado.
+
+        ● Los gustos. No todas las personas gustan de lo mismo y generalmente los gustos no son permanentes.
+
+        ● Precio de los sustitutos y complementarios. El pan y la mantequilla son productos complementarios uno del otro
+          y algunas personas no conciben su consumo por separado; si se presenta un incremento en el precio del pan, es
+          probable que no solo se resienta su demanda, seguramente también lo sentirán los productores de la mantequilla.
+
+          En el caso de los productos sustitutos, como el café y el té, la subida de precio de alguno de ellos incrementará
+          la demanda del otro.
+
+        ● Las expectativas. Lo que esperan los consumidores sobre los niveles de renta futura, afectan las decisiones de
+          compra.
+
+          Una persona que espera ganar mucho dinero en un futuro cercano es probable que gaste mucho más que una persona
+          la cual espera recibir un salario considerablemente menor. De igual manera, hay ocasiones en las cuales se aceleran
+          las compras antes que los precios se incrementen.
+
+        ● La población. Cuanto mayor el tamaño de un mercado, mayor es la cantidad que se compra de una mercancía o un
+          bien. En un determinado territorio con creciente población, la demanda de vehículos irá en aumento año tras año,
+          mientras que en una región donde su población decrece, la demanda de vehículos también lo hará.
+
+Se muestra a continuación, los diferentes niveles de demanda, el motivo y las oportunidades para un gestor de proyectos:
+
+![Niveles de demanda, imagen](image-1.png)
+
+## Descripción del problema
+
+El primer paso cuando se inicia un proyecto es reconocer el problema o establecer la necesidad que se quiere satisfacer.
+
+Para Miranda (2010), es de suma importancia tener conocimiento de las características específicas de dicho proyecto, además
+de las causas y otros factores que pueden ser fundamentales a la hora de buscar soluciones a los inconvenientes que se puedan
+presentar a lo largo del mismo.
+
+![descripcion del problema](image-2.png)
+
+En la descripción del problema es de gran utilidad tener en cuenta los siguientes interrogantes:
+
+![interrogantes descripcion del problema, imagen](image-3.png)
+
+## planteamiento
+
+Al momento de redactar el problema, se debe registrar lo que está sucediendo y las consecuencias que está causando; además,
+se debe concluir con un interrogante que sea congruente con el objetivo general. En su planteamiento se debe tener en cuenta
+las siguientes preguntas:
+
+![planetamiento del problema, preguntas, imagen](image-4.png)
+
+El planteamiento del problema supone una justificación y objetivos estructurados y articulados entre sí para llevar a buen
+término el proyecto.
+
+### Justificación del proyecto
+
+Explica las razones por las que se pretende llevar a cabo el proyecto e incluye:
+● El alcance del proyecto a corto, mediano y largo plazo.
+● Múltiples alternativas para solucionar el problema o lograr un objetivo identificado.
+● Las respuestas que buscan los interesados para participar en el proyecto.
+● Las razones y argumentos que invitan a invertir en la ejecución del proyecto.
+
+En el siguiente esquema se muestra graficamente las razones por las cuales se desea llevar a cobo el proyecto, basado en
+dos preguntas logicas, por que? y para que?
+
+![esquema de por que? y para que?, imagen ](image-5.png)
