@@ -279,3 +279,15 @@ negocio.
 Identificar los productos que puedan representar oportunidades de exportación hacia países del lejano oriente, y analizar
 la viabilidad para ser comercializados en los territorios donde se ha detectado la necesidad.
 
+### Objetivos específicos
+
+● Reconocer cuáles son las diferentes exigencias del mercado asiático y sus diferentes expectativas (relacionadas con la
+necesidad detectada).
+
+● Determinar la manera cómo influyen los costos de los procesos logísticos en las futuras exportaciones de los productos
+que pretende comercializar la compañía.
+
+● Establecer las estrategias para comercializar el producto que puede satisfacer la demanda del mercado asiático.
+
+Esta necesidad fue satisfecha por emprendedores colombianos a través de la exportación de papa criolla pequeña y uniforme,
+la cual paradójicamente no es consumida por lo clientes; se fríe y se acomoda en los platos para darle una mejor presentación.
