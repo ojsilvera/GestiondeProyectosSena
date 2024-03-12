@@ -66,7 +66,87 @@ determina el futuro de un proyecto.
 ## Conceptos básicos
 
 Al iniciar un proyecto, es importante tener claros los conceptos que intervienen en su planteamiento; entre ellos se encuentran:
+
+### Necesidad
+
 Para Bello (1973),“la necesidad es el deseo de disponer de un medio idóneo para prevenir o eliminar sensaciones penosas, o
 para provocar, conservar o incrementar sensaciones agradables”.
 
 La pirámide de Maslow es una teoría psicológica la cual clasifica las diferentes necesidades percibidas por los seres humanos:
+Las actividades económicas están movidas por la búsqueda constante de satisfacción de necesidades y por ello la identificación
+de propuestas creativas e innovadoras para dar solución a necesidades de una población; se convierte en el objetivo principal
+del proyecto.
+
+![piramide de necesidades segun maslow, imagen](image.png)
+
+## Proyecto
+
+Según Vértice (2008), un proyecto es una operación necesaria para realizar un trabajo de gran importancia el cual no se
+ejecuta de manera repetitiva, y que se planifica y desarrolla de acuerdo a las especificaciones técnicas establecidas por
+unos objetivos, costos, inversiones y plazos;
+
+sus principales características son:
+
+    ● Trascendencia. El objetivo es lograr resultados que trasciendan para los intereses de quienes lo inician.
+    
+    ● Dinamismo. Está en continua evolución, lo que requiere que se trabaje con gran agilidad para llevarlo a cabo.
+    
+    ● Irreversibilidad. En algún momento del proyecto se necesitará tomar decisiones irreversibles; generalmente esto
+    no ocurre en actividades continuas.
+
+Los proyectos tienen elementos específicos los cuales definen el camino a seguir; estos son:
+
+    ● Planeación estratégica. Está avalada por la visión y la  misión. A través de la planeación estratégica se refleja
+    el propósito y el impacto del proyecto, por medio de la organización de las actividades, fases y diferentes eventos
+    que harán parte del mismo, además, pone en evidencia las necesidades, limitaciones, posibles riesgos y responsabilidades
+    del equipo de trabajo.
+
+    ● Desarrollo de producto o servicio. Una vez detectado el problema o la necesidad, se realizan sondeos con la población
+    objetivo, después se inicia el diseño, el prototipado y la producción del producto a comercializar o del servicio a
+    prestar.
+
+    ● Comunicación. Es la que permite el correcto flujo de información, la toma de decisiones y asegurar las buenas relaciones
+    entre los integrantes del proyecto y los distintos grupos de interés como los proveedores y clientes.
+
+    ● Recursos de diferentes tipos: financieros, tiempo, equipos y herramientas, instalaciones y el humano. Los recursos
+    son los que determinan la viabilidad del proyecto.
+
+También se puede afirmar que un proyecto es una agrupación de elementos los cuales permiten desarrollar actividades de
+manera ordenada, con la finalidad de satisfacer las necesidades de una determinada población.
+
+Antes de iniciar un proyecto deben realizarse ciertas preguntas, las cuales se describen a continuación:
+
+¿Qué? Nombre del proyecto ¿Qué vamos a hacer?
+
+¿Por qué? Fundamentación, Se deberá realizar un diagnóstico de la situación, su factibilidad y por qué se solucionaría
+el problema de esta forma.
+
+¿Para qué? Objetivos, Determinar los objetivos y cantidades de recursos necesarios para alcanzar los objetivos.
+
+¿Dónde? Localización geográfica, Ciudad, localidad, barrio.
+
+¿Cómo? Listado de actividades, Será la manera de concretar el proyecto.
+
+¿Quiénes? Responsables ¿Quiénes realizarán las actividades?
+
+¿Cuándo? Plazos, Inicios, pasos intermedios, finalización.
+
+¿Cuánto? Presupuesto, (incide en la viabilidad del proyecto) Listado de recursos y sus costos.
+
+¿Será posible? Análisis DOFA y factores de riesgo (incide en la viabilidad del proyecto) Debilidades, oportunidades,
+fortalezas y amenazas.
+
+## Estado del arte
+
+Según Pardo (2006), es un método empleado en la comunidad científica para hacer referencia a la búsqueda y recolección
+de la información relacionada con la situación que se está investigando, y de esta manera plantear varios puntos de
+vista, y permitiendo realizar comparaciones con otros postulados o conocimientos y brindando más oportunidades de entender
+el problema analizado. El estado del arte se puede resumir en tres pasos:
+
+Contextualización, Clasificación, Categorización.
+
+En el levantamiento de un estado del arte se revisan portales científicos, bases de datos (ver biblioteca SENA) documentos
+de grupos de investigación, ferias o eventos académicos y libros actuales, se recomienda consultar recursos de máximo
+tres años de antigüedad; toda estas fuentes de información permiten determinar el orden de la investigación, identificar
+los actores vigentes y conocer y referenciar el análisis previo que han realizado otros investigadores; lo anterior permite
+sustentar el proyecto sobre bases teóricas confiables.
