@@ -17,3 +17,8 @@ mismo emprendedor.
 
 En el presente material, se abordarán conceptos fundamentales para el inicio de un proyecto; como la importancia de conocerse,
 el pensamiento creativo, la identificación del problema a resolver y el planteamiento del proyecto.
+
+1. Factores clave Para iniciar un proyecto
+
+basado en la profesión que se desempeña, es necesario analizar ciertas variables las cuales pueden ofrecer claridad y
+optimizar las probabilidades de llevarlo a cabo con éxito; entre ellas están:
