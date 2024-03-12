@@ -79,7 +79,7 @@ del proyecto.
 
 ![piramide de necesidades segun maslow, imagen](image.png)
 
-## Proyecto
+### Proyecto
 
 Según Vértice (2008), un proyecto es una operación necesaria para realizar un trabajo de gran importancia el cual no se
 ejecuta de manera repetitiva, y que se planifica y desarrolla de acuerdo a las especificaciones técnicas establecidas por
@@ -136,7 +136,7 @@ el problema de esta forma.
 ¿Será posible? Análisis DOFA y factores de riesgo (incide en la viabilidad del proyecto) Debilidades, oportunidades,
 fortalezas y amenazas.
 
-## Estado del arte
+### Estado del arte
 
 Según Pardo (2006), es un método empleado en la comunidad científica para hacer referencia a la búsqueda y recolección
 de la información relacionada con la situación que se está investigando, y de esta manera plantear varios puntos de
@@ -150,3 +150,17 @@ de grupos de investigación, ferias o eventos académicos y libros actuales, se 
 tres años de antigüedad; toda estas fuentes de información permiten determinar el orden de la investigación, identificar
 los actores vigentes y conocer y referenciar el análisis previo que han realizado otros investigadores; lo anterior permite
 sustentar el proyecto sobre bases teóricas confiables.
+
+### Demanda
+
+Según Spencer (1993), el término demanda se refiere a unidades de producto o servicio que los consumidores o clientes están
+dispuestos a comprar durante un periodo especificado de tiempo y bajo un conjunto de condiciones. También afirma que es
+la actitud o reacción sobre un bien por parte del comprador.
+
+La cantidad de personas que compran una mercancía en un momento dado depende de su precio; cuanto más elevado sea éste,
+menor será la cantidad de personas que estarán dispuestas a adquirirlo y cuanto más baje su precio en el mercado, más
+unidades serán demandadas. Es necesario que los demandantes (clientes) sientan el deseo y tengan la capacidad para pagar
+por el producto.
+
+Al momento de iniciar un proyecto, es conveniente tener un marco de referencia sobre la demanda, para esto es recomendable
+realizar estudios sobre los posibles competidores y el mercado objetivo.
