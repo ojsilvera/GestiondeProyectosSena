@@ -221,12 +221,61 @@ término el proyecto.
 ### Justificación del proyecto
 
 Explica las razones por las que se pretende llevar a cabo el proyecto e incluye:
-● El alcance del proyecto a corto, mediano y largo plazo.
-● Múltiples alternativas para solucionar el problema o lograr un objetivo identificado.
-● Las respuestas que buscan los interesados para participar en el proyecto.
-● Las razones y argumentos que invitan a invertir en la ejecución del proyecto.
+
+        ● El alcance del proyecto a corto, mediano y largo plazo.
+        ● Múltiples alternativas para solucionar el problema o lograr un objetivo identificado.
+        ● Las respuestas que buscan los interesados para participar en el proyecto.
+        ● Las razones y argumentos que invitan a invertir en la ejecución del proyecto.
 
 En el siguiente esquema se muestra graficamente las razones por las cuales se desea llevar a cobo el proyecto, basado en
 dos preguntas logicas, por que? y para que?
 
 ![esquema de por que? y para que?, imagen ](image-5.png)
+
+### Objetivos
+
+Son los resultados que se desean obtener con el desarrollo del proyecto; están enfocados en resolver el problema previamente
+identificado. La redacción de un objetivo inicia con un verbo en infinitivo, por ejemplo: lograr, reconocer, conseguir. Además,
+deben ser realistas, limitados en el tiempo, realizables y precisos.
+
+Los objetivos dependiendo del tiempo propuesto, se clasifican en:
+
+![objetivos en el tiempo, imagen](image-6.png)
+
+Según su naturaleza se clasifican en:
+
+    Objetivo general: Da solución al problema o expresar el principal propósito del proyecto; no está enfocado en
+    resultados concretos ni está diseñado para ser medido a través de indicadores.
+
+    Objetivos específicos: Describen la manera de conseguir el objetivo general, indicando la ruta que se debe seguir para
+    lograrlo.
+
+## Ejemplo del planteamiento de un problema detectado en restaurantes de países asiáticos
+
+### planteamiento del problema
+
+El continuo cambio cultural y económico que está presentado los países asiáticos, está generado continuas demandas en ámbitos
+gastronómicos para satisfacer a nuevos clientes con mayores exigencias no solo en la búsqueda de nuevos sabores, también el aspecto
+visual juega un papel determinante en los platos exóticos que impulsan países como Japón. En algunos restaurantes se han
+implementado propuestas para satisfacer esta falencia, sin embargo, en muchos casos no han causado mayor impacto. La competencia
+ha intensificado la necesidad de encontrar soluciones creativas que ofrezcan una ventaja competitiva al establecimiento.
+Es sabido el gusto de los orientales por los productos innovadores y también por los productos latinos, lo cual genera una gran
+oportunidad de negocio y por lo tanto surge la siguiente pregunta:
+
+    ¿Cuáles son los productos que pueden satisfacer a los posibles clientes asiáticos?
+
+De no desarrollarse este proyecto, es probable que queden insatisfechas algunas necesidades de clientes potenciales que demandan
+productos latinos; también se estaría perdiendo una excelente oportunidad de negocio
+
+### Justificación
+
+Colombia cuenta con productos que históricamente han tenido gran aceptación en el mercado del lejano oriente, por lo tanto,
+se abre la posibilidad de ofrecer variadas opciones que puedan impactar en los platos exóticos que cada vez son más demandados
+en estos territorios; además el gusto por lo diferente que esta cultura evidencia, podría generar una gran oportunidad de
+negocio.
+
+### Objetivo general
+
+Identificar los productos que puedan representar oportunidades de exportación hacia países del lejano oriente, y analizar
+la viabilidad para ser comercializados en los territorios donde se ha detectado la necesidad.
+
