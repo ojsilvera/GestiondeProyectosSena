@@ -294,4 +294,4 @@ la cual paradójicamente no es consumida por lo clientes; se fríe y se acomoda 
 
 ## infografia identificacion y formulacion de un proyecto
 
-
+![alt text](<Pasos en la identificacion y formulacion d eun proyecto.png>)
