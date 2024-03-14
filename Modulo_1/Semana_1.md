@@ -116,25 +116,25 @@ manera ordenada, con la finalidad de satisfacer las necesidades de una determina
 
 Antes de iniciar un proyecto deben realizarse ciertas preguntas, las cuales se describen a continuación:
 
-¿Qué? Nombre del proyecto ¿Qué vamos a hacer?
+    ¿Qué? Nombre del proyecto ¿Qué vamos a hacer?
 
-¿Por qué? Fundamentación, Se deberá realizar un diagnóstico de la situación, su factibilidad y por qué se solucionaría
-el problema de esta forma.
+    ¿Por qué? Fundamentación, Se deberá realizar un diagnóstico de la situación, su factibilidad y por qué se solucionaría
+    el problema de esta forma.
 
-¿Para qué? Objetivos, Determinar los objetivos y cantidades de recursos necesarios para alcanzar los objetivos.
+    ¿Para qué? Objetivos, Determinar los objetivos y cantidades de recursos necesarios para alcanzar los objetivos.
 
-¿Dónde? Localización geográfica, Ciudad, localidad, barrio.
+    ¿Dónde? Localización geográfica, Ciudad, localidad, barrio.
 
-¿Cómo? Listado de actividades, Será la manera de concretar el proyecto.
+    ¿Cómo? Listado de actividades, Será la manera de concretar el proyecto.
 
-¿Quiénes? Responsables ¿Quiénes realizarán las actividades?
+    ¿Quiénes? Responsables ¿Quiénes realizarán las actividades?
 
-¿Cuándo? Plazos, Inicios, pasos intermedios, finalización.
+    ¿Cuándo? Plazos, Inicios, pasos intermedios, finalización.
 
-¿Cuánto? Presupuesto, (incide en la viabilidad del proyecto) Listado de recursos y sus costos.
+    ¿Cuánto? Presupuesto, (incide en la viabilidad del proyecto) Listado de recursos y sus costos.
 
-¿Será posible? Análisis DOFA y factores de riesgo (incide en la viabilidad del proyecto) Debilidades, oportunidades,
-fortalezas y amenazas.
+    ¿Será posible? Análisis DOFA y factores de riesgo (incide en la viabilidad del proyecto) Debilidades, oportunidades,
+    fortalezas y amenazas.
 
 ### Estado del arte
 
@@ -291,3 +291,7 @@ que pretende comercializar la compañía.
 
 Esta necesidad fue satisfecha por emprendedores colombianos a través de la exportación de papa criolla pequeña y uniforme,
 la cual paradójicamente no es consumida por lo clientes; se fríe y se acomoda en los platos para darle una mejor presentación.
+
+## infografia identificacion y formulacion de un proyecto
+
+
