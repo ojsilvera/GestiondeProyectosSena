@@ -233,3 +233,36 @@ medidas para que los procesos sean corregidos; es evidente que se hará mayor é
 desperfectos, sin embargo, también es prudente considerar mejorar los demás procesos con porcentajes menores.
 
 ## Procesos de argumentación, interpretación, y proposición
+
+Para materializar un proyecto, la capacidad argumentativa representa un atributo muy importante no solo para el área
+comercial, sino para garantizar la comunicación y buen contacto con los futuros empleados, proveedores y posibles inversionistas.
+
+La argumentación es la capacidad de defender una idea, postura u opinión, incluyendo múltiples razones que justifiquen dicha
+postura, con honestidad y razones reales; para Díaz (2002), la argumentación está presente en las diferentes facetas del ser
+humano; se utiliza constantemente para justificar formas de pensar y comportamientos, los cuales pueden ser utilizados para
+influir en la forma de pensar de otros individuos.
+
+### Objetivos del argumento
+
+La influencia que pueda tener una persona sobre los demás, está estrechamente relacionada con la capacidad argumentativa
+que posee, lo cual constituye un reflejo de la organización del pensamiento. A continuación, se destacan los objetivos del
+argumento:
+
+Influir en el receptor:
+
+    Es la principal razón por la cual se hace un gran esfuerzo argumentativo; si se influye lo suficiente en el interlocutor,
+    habrá mayores posibilidades de obtener el control de las situaciones.
+
+Cambiar “algo” en el otro.
+
+    Si hay diferencias con relación a la postura del receptor, se debe tratar de que acepte parte del postulado que se
+    propone.
+
+Relativizar “algo” en el otro.
+
+    Se debe intentar eliminar los elementos del desacuerdo.
+
+Asegurar “algo” en el otro
+
+    Es muy importante reforzar o acentuar los puntos en los cuales hay un pleno entendimiento; este hecho puede facilitar
+    la influencia en la toma de decisiones.
