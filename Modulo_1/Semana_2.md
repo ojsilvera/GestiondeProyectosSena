@@ -205,3 +205,31 @@ agrupaciones, preferencias etc. Las variables pueden ser:
 o estado civil promedio de una determinada población.
 
 ### Inferencia y gráficos estadísticos
+
+La inferencia estadística es la agrupación de métodos y técnicas de las cuales se extraen conclusiones importantes para
+el proyecto, basadas en la información recopilada del análisis de una muestra. Pueden ser:
+
+    ● Estimación. Procedimiento a través del cual se otorga un valor a un parámetro en un evento futuro, basados
+    en las deducciones que se realizan a partir de estudios estadísticos.
+
+    ● Prueba de hipótesis. Se utiliza para determinar si hay suficientes evidencias en una muestra de datos, para
+    deducir que una determinada característica es válida para toda la población.
+
+Para agrupar, clasificar y socializar datos estadísticos se usan herramientas gráficas como los gráficos estadísticos;
+pueden ser:
+
+![Ejemplos de graficos estadisticos](image-10.png)
+
+#### A continuación, un ejemplo y su gráfica correspondiente
+
+Una compañía productora de camisas está recibiendo una gran cantidad de reportes donde se registran varias quejas de sus
+clientes debido a imperfectos en diferentes partes del producto. La compañía requiere identificar las fallas para tomar
+las decisiones apropiadas y de esta manera corregir la situación.
+
+![Dataset y grafica del ejemplo enunciado](image-11.png)
+
+Conclusión: Es notorio que la mayoría de los defectos se presentan en las puntadas torcidas, por lo tanto, se deben tomar
+medidas para que los procesos sean corregidos; es evidente que se hará mayor énfasis en el porcentaje más elevado de
+desperfectos, sin embargo, también es prudente considerar mejorar los demás procesos con porcentajes menores.
+
+## Procesos de argumentación, interpretación, y proposición
