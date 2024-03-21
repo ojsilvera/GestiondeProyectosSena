@@ -266,3 +266,32 @@ Asegurar “algo” en el otro
 
     Es muy importante reforzar o acentuar los puntos en los cuales hay un pleno entendimiento; este hecho puede facilitar
     la influencia en la toma de decisiones.
+
+### Elementos de la argumentación
+
+Estos elementos estructuran la base para que una persona influya en otros individuos; entre ellos se encuentran:
+
+*El objeto:* Es el tema que conforma la base para iniciar una argumentación. Por ejemplo, el desempleo en el país.
+
+*La tesis:* Es la postura que el argumentador toma y defiende. Por ejemplo, el estado debería apoyar más a los emprendedores.
+
+*Los argumentos:* Son las razones en las cuales esta soporta la postura base de la argumentación. Por ejemplo:
+
+    Si el estado apoya más a los emprendedores, se reducirán los índices de desempleo.
+    Si el estado apoya más a los emprendedores, habrá mayor cantidad de técnicos, tecnólogos y/o profesionales aplicando
+    los conocimientos que recibieron durante sus respectivas formaciones.
+    Si el estado apoya a los emprendedores, se fortalecerá la industria en el país.
+
+En cualquier proceso argumentativo existen tres procesos básicos importantes para el desarrollo de una buena comunicación,
+estos son:
+
+*Interpretar:* Se refiere a los actos que una persona lleva a cabo con la finalidad de comprender lo que ha sido planteado
+en una situación particular. La interpretación de la información depende de la dificultad con la cual haya sido planteada
+y el nivel intelectual del receptor; al interpretar, un individuo puede proyectar su forma de actuar y su personalidad.
+
+*Argumentar:* Busca explicar las posturas planteadas en una situación. La persona que argumenta debe haber tenido interacción
+con la situación argumentada, es aquí donde cobra sentido esta valiosa cualidad.
+
+*Proponer:* En este elemento están incluidos continuamente la interpretación y la argumentación, ya que la interacción
+con el interlocutor necesitará de propuestas, las cuales tendrán que ser interpretadas y argumentadas para evitar un
+escenario de confrontación y refutación.
