@@ -31,3 +31,177 @@ tienen las siguientes características:
 
     ● Cuando finaliza una fase, se transfiere el trabajo realizado a la fase siguiente; este proceso es conocido como
     puerta de etapa o revisión de fase.
+
+### Iniciación
+
+Es la fase donde se identifica la necesidad de una determinada población, se plantea el problema y los objetivos y la
+justificación. Estos procedimientos son fundamentales, debido a que, si los objetivos se planean de una manera equivocada,
+existen muchas probabilidades de que el proyecto tenga dificultades.
+
+### Planeación
+
+Es esta fase se planifican las diferentes actividades necesarias para desarrollar el proyecto, se especifican los requerimientos
+necesarios para llevar a cabo dichas actividades, y se realiza una estimación de los riesgos y los recursos disponibles.
+
+#### Planeación de las actividades
+
+Una vez identificados el problema, los objetivos, la justificación y se ha dado respuesta a los interrogantes formulados
+en la fase de iniciación del proyecto, es necesario realizar un plan de actividades en el cual se registren las tareas que
+se requieren para llevar a cabo en cada una de las fases del proyecto. Los aspectos que se deben considerar para desarrollar
+un plan de actividades son:
+
+    Elaborar una lista completa y detallada de todas las actividades a realizar.
+
+    Dividir las actividades en "mini proyectos" para poder tener mayor control.
+
+    Tener en cuenta el objetivo general del proyecto.
+
+    Determinar el tiempo disponible para realizar determinados procesos.
+
+    Establecer cuál es el presupuesto y los recursos necesarios para desarrollar las actividades.
+
+    Establecer un objetivo e indicadores para medir las actividades en el final de cada bloque; este ejercicio es fundamental
+    para revisar si se han conseguido los objetivos planeados.
+
+    Asignar el número de personas requeridas para llevar a cabo cada actividad.
+
+    Tener claro cómo y dónde se van a realizar las actividades.
+
+    Analizar los posibles riesgos que puedan afectar las actividades del proyecto.
+
+En la siguiente gráfica se puede observar un ejemplo sencillo de un plan de actividades de un proyecto basado en la instalación
+de cocinas integrales.
+
+![Ejemplo planeación de proyecto cocinas integrales](image-8.png)
+
+### Ejecución
+
+Es la fase donde se pone en marcha el proyecto materializando las actividades planteadas en la etapa de planificación. Se
+debe tener en cuenta el flujo de la información, ya que es vital para que se tomen decisiones rápidamente cuando se presenten
+problemas que deban solucionarse de manera inmediata.
+
+### Evaluación, control y cierre
+
+La finalidad de las acciones desarrolladas en esta etapa es comprobar que los objetivos sean logrados en el tiempo y
+calidad planteados previamente, para lo cual es necesario implementar indicadores que midan del rendimiento de los procesos,
+con la finalidad de que se puedan corregir los errores a través de la comparación entre la planificación diseñada y los
+valores obtenidos.
+
+En esta fase se elabora un informe donde se describe como se ha desarrollado el proyecto, los inconvenientes que se
+encontraron a lo la largo de este, la metodología implementada, la experiencia que se obtuvo y las conclusiones que pueden
+extraer con la evaluación y su control.
+
+## Requerimientos
+
+Para Rodríguez (2005):
+
+    “los requerimientos son las especificaciones técnicas y de uso que debe cumplir el proyecto, por lo tanto, varían uno
+    del otro”.
+
+Por medio de la postulación de los requerimientos de un proyecto se garantiza el cumplimiento de las expectativas de las
+personas que están involucradas directa o indirectamente con él. Para el planteamiento de los requerimientos es necesario
+hacerse ciertas preguntas, como:
+
+    ¿Qué requiere el proyecto para llevarlo a cabo?
+    ¿Existe claridad sobre el producto o servicio que se producirá a través del proyecto?
+
+Los requerimientos del proyecto son el medio por el cual se documentan las necesidades que provienen de la población objetivo,
+relacionadas con el comportamiento, limitaciones y la calidad esperada de los productos o servicios que ofrecen las empresas
+del sector y estos se pueden reflejar en una nueva característica de un producto o servicio.
+
+### Clasificación de los requerimientos
+
+En un proyecto, es necesario aplicar estrategias para identificar los requerimientos que realmente sean necesarios; para
+un estudio más detallado, dichos requerimientos se clasifican en:
+
+![alt text](image-9.png)
+
+- Requerimiento de negocio
+
+        Definen las metas o necesidades que se debe tener en cuenta al iniciar un proyecto; argumentan las razones por
+        las cuales se decidió llevarlo a cabo, y describen los objetivos que se deben alcanzar y los indicadores para
+        medir su éxito.
+
+- Requerimientos de stakeholders
+
+        Se debe tener en cuenta que los stakeholders son todas aquellas personas u organizaciones que están relacionadas
+        con una determinada empresa y que se pueden ver afectadas por las actividades y las decisiones que la compañía
+        tome en un momento dado; los stakeholders son los accionistas, empleados, clientes, proveedores, entre otros.
+
+        Por lo tanto, estos requerimientos describen las necesidades de estos grupos, las cuales sirven como enlace entre
+        los requerimientos de negocio y los diferentes requerimientos de solución.
+
+- Requerimientos de solución
+
+        Hacen referencia a las soluciones que satisfacen los requerimientos de negocio y de los stakeholders.
+
+- Requerimiento funcional
+
+        Define lo que se supone debe hacer un determinado producto o servicio para satisfacer las necesidades demandadas
+        por los clientes; es decir, se detallan los servicios o sus funciones, por ejemplo, se ha detectado que existe la
+        necesidad de un GPS que reporte las zonas donde existe mayores posibilidades de que se presenten accidentes al
+        momento de viajar por carretera; este es un requerimiento funcional.
+
+- Requerimiento no funcional
+
+        Define como debe ser el producto o servicio; describe atributos relacionados con:
+        
+            la calidad, rendimiento, disponibilidad, mantenimiento, fiabilidad o seguridad;
+        
+        un ejemplo del requerimiento no funcional puede ser que el lenguaje de programación del GPS esté basado en JAVA,
+        y por lo tanto proporciona gran velocidad en el procesamiento de datos, o una interfaz rápida que le permita al
+        usuario tener una mejor experiencia al momento de utilizar el dispositivo.
+
+- Requerimiento de transición
+
+        Describe las características de una solución con la finalidad de realizar una transición sencilla del estado en
+        el cual se encuentra el proyecto, hasta llegar a la situación futura deseada.
+
+## Fundamentos de estadística
+
+Según Martínez (2016), la estadística hace referencia al conglomerado de reglamentaciones y principios los cuales son
+requeridos para observar, describir, cuantificar y analizar el comportamiento de una agrupación que contiene determinados
+elementos. La estadística representa un soporte fundamental a la hora de tomar decisiones importantes.
+
+### Conceptos
+
+A continuación, se resaltan elementos básicos relacionados con el ejercicio de la estadística:
+
+*Población:* Es la agrupación de objetos y/o personas que se desea investigar. Los elementos de la población son los que
+la integran, pueden ser objetos y/o personas. Dependiendo del número de elementos que la conformen, se presentan dos clases
+de poblaciones:
+
+    ● Población finita. Es la población que está limitada; por ejemplo, el número de jugadores de un equipo fútbol, o la
+    cantidad de medicamentos que hay en una farmacia.
+
+    ● Población infinita. Esta población no cuenta con un límite, por ejemplo, el número de granos de arena existentes en
+    una playa, o la cantidad de estrellas que hay en el universo.
+
+*Parámetro:* Es una medida la cual sirve como referencia para describir una población. Por ejemplo:
+
+    ● El total de emprendedores que formaron empresa a nivel nacional.
+    
+    ● Índice de desempleo en el último mes en la región caribe colombiana.
+
+*Muestra:* Es el subconjunto de la población escogida; por ejemplo, 20 empleados de una compañía conforman una muestra del
+total de trabajadores de la empresa estudiada
+
+*Censo:* Cuando la muestra está conformada por toda la población se denomina censo.
+
+*Muestreo:* Es el procedimiento mediante el cual se obtiene información valiosa basada en la muestra extraída.
+
+*Variable:* Son las características de la población de interés; por ejemplo, en un proyecto de fabricación y comercialización
+de accesorios para patinadores, se investiga a la población de personas que practican patinaje teniendo en cuenta sus ingresos,
+agrupaciones, preferencias etc. Las variables pueden ser:
+
+    a. Cualitativas. Miden atributos o cualidades las cuales no se pueden cuantificar; por ejemplo, la opinión, estado
+    civil, el color de un producto.
+
+    b. Cuantitativas. Miden características cuantificables; estas pueden ser edad, resistencia, ingresos, peso, altura.
+
+*Clase:* Es una categoría por medio de la cual es posible agrupar los datos.
+
+*Valor promedio:* Tiene como finalidad representar los valores de una agrupación de valores; por ejemplo, estatura promedia
+o estado civil promedio de una determinada población.
+
+### Inferencia y gráficos estadísticos
