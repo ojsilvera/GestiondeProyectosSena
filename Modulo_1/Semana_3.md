@@ -195,6 +195,44 @@ software, otras tecnologías), planeación de mantenimiento preventivo sin afect
 
 #### Proceso de fabricación y/o prestación del servicio
 
+Estos procesos deben estar apropiadamente planificados; es conveniente conocer los costos directos e indirectos de
+fabricación, los recursos físicos (materias primas, maquinaria y herramientas) y el capital humano requerido para
+desarrollar el proceso productivo o la prestación del servicio. Por lo tanto, se deben tener en cuenta aspectos como:
+
+- Descripción del proceso: se definen las etapas o fases desde el suministro de la materia prima hasta el producto
+  terminado, es importante relacionar la cantidad de materiales, los tiempos de cada proceso; la regularidad de los
+  suministros de agua, electricidad, gas, mano de obra, tecnología a implementar, y la vida útil de cada elemento utilizado.
+  
+  Con esta información se identifican los grupos de interés (stakeholders) implicados en cada actividad, como son proveedores
+  y clientes, se analizan los procesos críticos que pueden generar cuellos de botella y retrasos en las entregas, para
+  generar alternativas de solución.
+
+- Programa de producción: el pronóstico de la demanda representa un indicador muy útil para planificar y programar la
+  producción o la prestación de un servicio, a partir de esta información es posible:
+
+    ● Calcular la cantidad de productos terminados a fabricar.
+    ● Las horas de mano de obra requeridas.
+    ● Las unidades de materia prima a emplear.
+    ● El número de horas que debe funcionar cada máquina.
+
+- Costos de producción: estos se pueden clasificar en:
+
+    ● Costos de realización del pedido. Estos incluyen los costos de materias prima, mano de obra y energéticos.
+    ● De estructura: están relacionados con la amortización del edificio y maquinaria.
+    ● Gastos generales: están integrados por el alquiler, nomina administrativos, de gestión, de inventarios, gastos
+    financieros y de mantenimiento.
+
+- Control de calidad: es pertinente implantar un sistema de control de calidad el cual permita identificar los aspectos
+  y procedimientos que deban corregirse.
+
+- Prevención de riesgos laborales: es necesario por ley establecer un sistema de gestión en prevención de accidentes y
+  velar por la seguridad e higiene en el trabajo. Este sistema de prevención de riesgos laborales incluye la capacitación
+  de empleados, suministro de elementos de seguridad según el riesgo y establece medidas preventivas, así como plantear
+  el procedimiento de evacuación o acción ante cualquier eventualidad
+
+- Factores medioambientales: al igual que la prevención de riesgos laborales, los factores medioambientales son
+  requerimientos legales que requieren un plan para la identificación, análisis, evaluación y mitigación de los impactos
+  negativos medioambientales en el proceso productivo o de prestación del servicio.
 
 ## Presupuesto
 
