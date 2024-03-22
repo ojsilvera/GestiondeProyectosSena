@@ -97,6 +97,63 @@ criterios de clasificación más importantes:
 
 Teniendo en cuenta los productos que se comercializan, el mercado se divide en:
 
+- MERCADO DE PRODUCTOS DE CONSUMO: Se destinan al uso personal, estos se clasifican en:
+
+    ▪ Productos de consumo masivo: alimentos, artículos de limpieza, etc.
+    ▪ Productos de consumo duradero. Su compra no tiene una frecuencia determinada. Generalmente es espaciada, como la
+      adquisición de electrodomésticos y automóviles.
+    ▪ Productos de novedad. Se obtienen basados en la moda como ropa, zapatos, joyería.
+
+- MERCADO DE PRODUCTOS INDUSTRIALES: Los cuales comercializan:
+
+    ▪ Materias primas como textiles, combustibles.
+    ▪ Bienes de equipo como maquinaria, computadores.
+    ▪ Productos manufacturados o semi manufacturados, los cuales se utilizan para elaborar otros productos.
+
+- MERCADO DE SERVICIO: Está integrado por las actividades que no se reflejan de manera material, aunque usan herramientas
+  físicas para prestarse, como:
+  
+    ▪ servicios de transporte.
+    ▪ servicios financieros.
+
+### Según grupos demográficos
+
+Los individuos presentan características que los diferencian como la edad, el sitio donde residen o su estado civil, poder
+adquisitivo, lo cual facilita que sean incluidos en agrupaciones con similares características, son llamados grupos
+demográficos, y conviene dividirlos para identificar sus necesidades de una manera más sencilla. El aspecto de la edad es
+muy importante porque determina los gustos; por lo cual se clasifican en:
+
+    ● Mercado infantil.
+    ● Mercado juvenil.
+    ● Mercado adulto.
+
+### Según el ámbito geográfico
+
+El mercado está conformado por:
+
+    ● Mercado local.
+    ● Mercado regional.
+    ● Mercado nacional.
+    ● Mercado internacional.
+
+Generalmente, los nuevos proyectos inician su participación empresarial en mercados locales e incluso regionales, sin
+embargo, en conveniente fijarse metas para proyectarse internacionalmente.
+
+#### Según el papel de los compradores
+
+De acuerdo con las características del comprador se establecen los siguientes mercados:
+
+- Mercado del consumidor: Conformado principalmente por las familias, las cuales buscan satisfacer sus necesidades fundamentales
+
+- Mercado industrial:Está relacionado con las personas tanto naturales como jurídicas las cuales adquieren ciertos artículos
+  o servicios para utilizarlos en la elaboración de otros productos.
+
+- Mercado del intermediario: Está conformado por las compañías o personas que compran determinados productos para volverlos
+  a vender.
+
+- Mercado gubernamental: Lo conforman entidades del gobierno las cuales adquieren cierto producto para llevar a cabo su
+  actividad; por ejemplo, instituciones educativas, militares, relacionadas con la salud.
+
 ## Presupuesto
 
 Según Rincón (2011), “El presupuesto es un análisis sistemático que analiza el futuro y presente de un proceso productivo
