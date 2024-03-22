@@ -1,0 +1,276 @@
+# plan de negocios, presupuestos, cronogramas y software aplicado
+
+## Introducción
+
+Al momento de buscar financiación, se debe situar el sector económico donde se inscribe el proyecto y así identificar las
+entidades idóneas para solicitar la financiación. Después, se construyen algunos elementos como un plan de negocios que
+refleje de manera sencilla y convincente la propuesta, un presupuesto que proyecte cómo se invertirán los recursos financieros
+y un cronograma que especifique las actividades para materializar el proyecto.
+
+## Financiación
+
+Las entidades financieras desempeñan un papel importante en la puesta en marcha del proyecto; gracias a ellas se puede
+acceder al dinero por medio de préstamos o convocatorias; existen elementos que permiten exponer el proyecto de una
+manera convincente y clara para solicitar recursos económicos a las entidades financieras, entre ellos:
+
+## Plan de negocios
+
+Para Hingston (2002), “uno de los primeros pasos para emprender cualquier empresa es la elaboración de un plan de negocios;
+es un documento de planificación detallada que establece en palabras y en cifras lo que constituye su negocio. (tanto si
+lo inicia, como si lo expande o diversifica)”.
+
+En otras palabras, el plan de negocios es el documento donde se consolidan la oportunidad, la solución planteada, la manera
+de monetizar o llevar a cabo los objetivos y los costos de la ejecución del proyecto. Al revisar un plan de negocios, los
+aspectos que tiene en cuenta un inversionista son:
+
+Investigación de mercado.
+Control financiero.
+Planificación apropiada.
+Competencia y compromiso de las personas que integran el proyecto.
+
+Otro factor que se debe destacar es la preparación y trayectoria que posean los integrantes del proyecto, ya que el compromiso
+y la capacidad que reflejen incidirá en la decisión final de los inversionistas.
+
+Es importante considerar los elementos básicos al momento de redactar un plan de negocios, entre los cuales se encuentran:
+
+- MODELO DE NEGOCIO: Describe sobre los productos o servicios que se ofrecen, las características de negociación: tiempos
+de pago, cantidades y canales de distribución.
+
+- DEFINICIÓN DEL MERCADO OBJETIVO: Identifica y segmenta los clientes por gustos, características demográficas y ubicación
+  territorial.
+
+- ELEMENTOS DIFERENCIADORES: Comunica los atributos, características y procesos que generan valor a la propuesta. Es la
+  forma adecuada para enfrentar la competencia y sostenerse en el mercado.
+
+Para generar un plan de negocios acertado y coherente, hay que hacerse las siguientes preguntas:
+
+Investigación de mercado:
+
+    ¿Qué es lo que se venderá?, ¿a través de cuáles canales?, ¿cuáles son las necesidades que serán satisfechas?, ¿quiénes
+    serán los compradores?, ¿por qué razón lo harán?, ¿cómo lo harán?
+
+Análisis de la competencia:
+
+    ¿Quiénes conforman la competencia?, ¿por qué las personas deberían adquirir el producto o servicio?
+
+Definición de las estrategias:
+
+    ¿Como se venderá el producto o servicio?, ¿Cúales serán los medios de promocion?
+
+Propuesta de valor:
+
+    ¿Cuál es el valor percibido por los consumidores?
+
+Organización del equipo:
+
+    ¿Quiénes serán los demás integrantes del proyecto?, ¿cuál será su aporte?, ¿cuál es su preparación y trayectoria?
+
+Financiamiento:
+
+    ¿Con cuánto dinero se dispone?, ¿cuánto se necesita?, ¿Como se utilizarán los recursos?, ¿qué retorno de inversión es
+    el apropiado?
+
+Crecimiento:
+
+    ¿Cuánto se planea crecer?, ¿de qué manera se manejará el crecimiento?
+
+### Definición del mercado
+
+El concepto de mercado encierra diferentes interpretaciones, siendo todas estas válidas:
+
+Desde el punto de vista físico: es el sitio donde se reúnen los compradores y vendedores para realizar las diferentes
+transacciones comerciales.
+
+Desde el punto de vista económico: es el punto donde se une la oferta y la demanda, con características cuantitativas y
+cualitativas.
+
+Desde el punto de vista empresarial: es el punto donde se realiza la transferencia de la propiedad de un determinado producto
+o servicio.
+
+Desde el punto de vista del marketing: es un grupo de individuos que realizan intercambios comerciales.
+
+Según Martínez (2006), “Al hablar de mercado no se puede considerar que existe uno solo, sino que puede existir muchas
+clasificaciones según el punto de vista desde el que se contemple”. A continuación, se realizará una descripción de los
+criterios de clasificación más importantes:
+
+#### Según lo comercializado
+
+Teniendo en cuenta los productos que se comercializan, el mercado se divide en:
+
+## Presupuesto
+
+Según Rincón (2011), “El presupuesto es un análisis sistemático que analiza el futuro y presente de un proceso productivo
+y financiero de una empresa, calculando los inputs (entradas) y los outputs (salidas) de los recursos, siendo los recursos
+dinero, tiempo, materiales, uso de maquinaria y de espacio. El presupuesto se encarga de calcular y analizar la circulación
+de los recursos, y de ofrecer datos concretos sobre la rentabilidad y el flujo de efectivo en la compañía. Cuando se elabora
+un presupuesto, es posible:
+
+    Prevenir dificultades, proponiendo soluciones anticipadas.
+    Analizar las posibilidades de financiación y establecer la manera de cubrirla.
+    Planificar, ejecutar y controlar las metas del proyecto.
+    Trabajar con rumbo definido y diseñar mecanismos para obtener los objetivos.
+    Pronosticar las situaciones peligrosas.
+
+Para elaborar el presupuesto de un proyecto, es conveniente tener en cuenta los siguientes ítems:
+
+- GASTOS DE INICIO: Se relacionan con los gastos para desarrollar estudios previos a la ejecución del proyecto, incluyendo
+  estudios de mercado en el sector donde se pretende incursionar, entre otros.
+
+- GASTOS DE GESTIÓN Y ORGANIZACIÓN: Se generan al legalizar el proyecto frente a las entidades correspondientes, incluye
+  trámites como licencias, permisos de apertura, entre otros.
+
+- GASTOS OPERATIVOS: Hacen referencia a los gastos fijos y variables; dentro de los gastos fijos se encuentran los recursos
+  humanos, equipamiento y el pago de obligaciones financieras con bancos e inversionistas; y en los gastos variables se
+  incluyen los impuestos por ventas, pago a proveedores, entre otros.
+
+- FLUJO DE FONDOS: Es importante estimar la posible entrada de dinero a través de la ejecución del proyecto en un tiempo
+  determinado.
+
+En la siguiente tabla se puede observar un ejemplo sencillo de un presupuesto con las especificaciones básicas, para determinar
+si un emprendedor o gestor tiene el suficiente capital para materializar el proyecto, o si, por el contrario, debe recurrir
+a una fuente de financiación externa.
+
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+
+### Fuentes de financiación
+
+Es importante responder las siguientes preguntas, antes de solicitar recursos:
+
+    ¿Cuánto dinero se necesita?
+    ¿En que se invertirá el dinero?
+    ¿En cuánto tiempo el proyecto empezará a percibir utilidades?
+    ¿En cuánto tiempo se retornará el dinero?
+
+Una vez se tenga claridad sobre esos aspectos se puede ir en busca de la fuente de financiación. Existen múltiples opciones
+para financiar un proyecto, entre las cuales se encuentran:
+
+Recursos propios de familiares y amigos: es la primera fuente de financiación a la cual se acude.
+
+Leasing: facilita al emprendedor la adquisición de un determinado bien, por medio de un contrato de arrendamiento y a un
+plazo acordado con la entidad que lo ofrece; la particularidad de este sistema es que existe la opción de compra de dicho
+bien, teniendo en cuenta lo que se ha pagado por el alquiler.
+
+Inversiones ángeles: se trata de empresas que se ven atraídas por las nuevas propuestas. Estas compañías están especializadas
+en detectar el potencial de una idea innovadora y visualizar sus oportunidades.
+
+Capital de riesgo: son fondos de inversión que participan en proyectos de emprendimientos con un alto potencial de crecimiento,
+las aportaciones de capital varían de acuerdo con la propuesta. Generalmente esta fuente de financiación se presenta en
+empresas que ya tienen un camino recorrido, que cuentan con una relativa experiencia y que proponen un producto innovador
+y llamativo.
+
+Crowdfunding: es una fuente de financiación en masa, la cual funciona mediante una plataforma donde se exponen diferentes
+proyectos y se crea un sistema de retribución para los inversionistas.
+
+Programas de aceleración: permiten servir de plataforma para materializar proyectos que se encuentren en las primeras fases,
+generalmente incluyen asesoramiento y financiación; existen grandes empresas que realizan este tipo de acciones con proyectos
+innovadores relacionados con el campo donde se desenvuelven; entre ellas se encuentran Microsoft y Wyra, entre otras.
+
+Préstamos participativos: básicamente se trata de obtener financiación de un determinado inversor a cambio de la participación
+de los beneficios de la compañía, y el cobro de un interés fijo. La ventaja de este sistema es la facilidad de pago del
+crédito en cómodas cuotas; generalmente se presenta esta fuente de financiación en proyectos que tienen una gran perspectiva
+de crecimiento.
+
+Financiamiento bancario: los bancos son una opción de financiamiento del proyecto, dependiendo del sector económico, se
+enmarca y solicita préstamo en diferentes entidades; como bancos del sector agrario, comercial o industrial.
+
+Fondos gubernamentales: es una forma de financiación la cual es ofrecida por organizaciones encargadas de gestionar los recursos
+para la promoción de diversos sectores de la economía. Están destinados a incentivar modelos de negocios y a desarrollar
+proyectos mediante la materialización de prototipos y el impulso de su comercialización. Generalmente, son préstamos con
+posibilidad de condonación, los más representativos se encuentran en el siguiente cuadro.
+
+    Fomipyme: fondo colombiano de modernización y desarrollo tecnológico de las micro, pequeñas y medianas empresas. El
+    fondo tiene por objeto señalar las condiciones y el procedimiento para acceder a los incentivos de este, los cuales
+    están dirigidos a programas, proyectos y actividades de desarrollo tecnológico y de fomento y promoción de las mipymes.
+
+    Findeter: banca de desarrollo que ofrece soluciones integrales para construir territorios sostenibles a través de la
+    planeación, estructuración, financiación y asistencia técnica de proyectos de infraestructura, que mejoran la calidad
+    de vida de los colombianos.
+
+    Fonade: es una empresa industrial y comercial del Estado de carácter financiero, vinculada al Departamento Nacional de
+    Planeación. Es la única empresa estatal dotada jurídica, técnica y financieramente de facultades para agenciar proyectos
+    de desarrollo y apoyar la fase de preparación de estos.
+
+    El Fondo Nacional de Garantías S.A. FNG: es la entidad a través de la cual el Gobierno Nacional busca facilitar el acceso
+    al crédito para las micro, pequeñas y medianas empresas, mediante el otorgamiento de garantías. Adicionalmente, el FNG
+    respalda préstamos destinados a financiar la adquisición de viviendas de interés social.
+
+    Corporación Fondo Biocomercio Colombia, CFBC: facilita, a los agentes económicos del campo y la ciudad, el aprovechamiento
+    de oportunidades productivas y de mercado, mediante la gestión de recursos y la correspondiente canalización de estos,
+    a través de un acompañamiento a nivel financiero.
+
+    Bancóldex: Banco de Comercio Exterior de Colombia. promueve la productividad y competitividad del sector empresarial
+    en Colombia a través de la innovación, modernización e internacionalización de empresas de todos los tamaños.
+
+    Banca de las Oportunidades: es un programa del Gobierno Colombiano, administrado por Bancóldex, para promover la inclusión
+    financiera en el país, y el acceso a servicios financieros a familias en pobreza, microempresarios, pequeña y mediana
+    empresa y emprendedores con el fin de reducir la pobreza, generar igualdad social y estimular el desarrollo económico.
+
+## Cronograma
+
+Es un concepto que se refiere a la organización de un calendario de trabajo; se establecen actividades a desarrollar una
+a una, asignando tiempos, recursos y entregables. Es una herramienta fundamental para el logro de los objetivos planteados,
+puesto que a cada etapa del proyecto se le asignan fechas de inicio y finalización permitiendo el control de los procesos
+y los recursos; los tiempos asignados a las actividades pueden ser establecidos en días, semanas, quincenas o meses,
+dependiendo del requerimiento de cada tarea, actividad o del proyecto. Para elaborar un cronograma se debe:
+
+1. Identificar claramente las actividades necesarias para materializar el proyecto.
+2. Tener claridad sobre los recursos asignados a cada actividad.
+3. Establecer la duración de cada actividad.
+4. Determinar la independencia o dependencia de cada actividad con otras, para así establecer una secuencia de tareas
+   coherente y alcanzable.
+5. Dar prioridad a las actividades que se estime conveniente.
+6. Asignar una persona responsable a cada actividad.
+
+A continuación, un ejemplo de cronograma con periodo de tiempo semanal:
+
+![alt text](image-18.png)
+
+## Software aplicado
+
+La necesidad de las empresas de hacer frente al manejo de la creciente cantidad de información al menor costo posible ha
+obligado a las empresas desarrolladoras de software a producir las aplicaciones ERP (Enterprise Resource Planning) o
+Planificación de Recursos Empresariales.
+
+Los formuladores de proyectos deben proyectar la implementación de estos sistemas que ayuden al fortalecimiento del proyecto
+a través de la constante alimentación de la información.
+
+### ERP o Planificación de Recursos Empresariales
+
+La Planificación de Recursos Empresariales o ERP, es un sistema de software de gestión integrada conformada por varios módulos
+conectados a una base de datos, que permite organizar todas las actividades operativas de un proyecto. La finalidad de esta
+herramienta es obtener una dinámica que integre procesos, recursos e información en un sentido global.
+
+Antes de la aplicación de este sistema, las áreas de las compañías generalmente manejan distintos programas para gestionar
+la información, con lo cual se presentaban problemas como información duplicada, o distorsionada; el ERP soluciona estos
+inconvenientes, al encargarse de gestionar la información de todos los departamentos, adaptando la aplicación o programa
+que más convenga a un determinado tipo de proyecto.
+
+### Evolución y principales características
+
+La Planificación de Recursos Empresariales o ERP gracias a su modularidad y sistematización de la información total de un
+proyecto, permite:
+
+    - Control de costos.
+    - Análisis costo/beneficio de un producto.
+    - Utilización de la información para la toma de decisiones.
+    - Modificaciones en la manera de realizar los negocios.
+    - Flexibilidad para enfrentar los cambios en las necesidades empresariales.
+    - Controla las principales actividades de la compañía, mejorando el servicio al cliente, lo que repercute en la
+      proyección de una buena imagen de la compañía.
+    - Distribuye la información al largo de la empresa.
+    - El ingreso y adaptación automática de las últimas tecnologías.
+    - Mejora los procesos del proyecto empresarial.
+
+Dentro de los elementos ofrecidos por esta herramienta se encuentran los módulos:
+
+    - Ventas y marketing.
+    - Gestión de materiales.
+    - Control de la cadena de suministro.
+    - Planificación y gestión de la producción.
+    - Comunicación con estaciones remotas.
+    - Desarrollo de soluciones.
