@@ -116,7 +116,7 @@ Teniendo en cuenta los productos que se comercializan, el mercado se divide en:
     ▪ servicios de transporte.
     ▪ servicios financieros.
 
-### Según grupos demográficos
+#### Según grupos demográficos
 
 Los individuos presentan características que los diferencian como la edad, el sitio donde residen o su estado civil, poder
 adquisitivo, lo cual facilita que sean incluidos en agrupaciones con similares características, son llamados grupos
@@ -127,7 +127,7 @@ muy importante porque determina los gustos; por lo cual se clasifican en:
     ● Mercado juvenil.
     ● Mercado adulto.
 
-### Según el ámbito geográfico
+#### Según el ámbito geográfico
 
 El mercado está conformado por:
 
@@ -153,6 +153,48 @@ De acuerdo con las características del comprador se establecen los siguientes m
 
 - Mercado gubernamental: Lo conforman entidades del gobierno las cuales adquieren cierto producto para llevar a cabo su
   actividad; por ejemplo, instituciones educativas, militares, relacionadas con la salud.
+
+### Producción del producto y/o servicio
+
+Según Cuatrecasas (2012), “La actividad productiva se plasma en procesos sujetos a una organización y planificación, y a
+los que se aplicarán los recursos adecuados. Dichos procesos están formados por conjuntos de actividades coordinadas para
+efectuar la producción con la determinación correcta de medios, de acuerdo con los métodos más adecuados, de manera que se
+obtenga el producto con la máxima productividad y calidad y el mínimo tiempo y costo”.
+
+Para ello es importante establecer un plan de producción basado en los pronósticos de ventas y en la capacidad productiva
+del proyecto.
+
+#### Prototipo
+
+Para Lerma (2010), la elaboración de un prototipo es un paso muy importante para que el proyecto se materialice; básicamente
+se trata de diseñar y fabricar un artículo con el cual se puedan realizar las diferentes pruebas, para evaluar al producto
+y el proceso productivo. Es muy importante tener en cuenta que la finalidad del prototipo es determinar si es posible
+cumplir con las necesidades que han sido detectadas en la población objetivo, y mediante las cuales se planteó el problema,
+la justificación y los objetivos.
+
+Un prototipo es un modelo de validación de aspectos técnicos, productivos, de usabilidad y de mercado. Por consiguiente,
+el número de prototipo y validación no se encuentra definido, se establece dependiendo del proyecto, la interacción, la
+evaluación de las fallas identificadas y la puesta en marcha de los cambios y ajustes necesarios.
+
+Además, un prototipo sirve para analizar el ciclo de vida del producto. Es importante establecer el tiempo de vigencia de
+uso y planear su desuso, desecho y reciclaje. Para la fabricación y validación de prototipos de proyectos de innovación
+de base tecnológica, el SENA cuenta con una estrategia que reúne acompañamiento técnico, laboratorios, materiales y
+herramientas para este fin, la estrategia se llama Tecnoparque y se encuentra disponible en 15 nodos a nivel nacional donde
+se pueden materializar prototipos en las líneas de electrónica y telecomunicaciones, tecnologías virtuales, ingeniería,
+diseño, biotecnología y nanotecnología.
+
+Para más información consulte el material complementario ¿Qué es Tecnoparque SENA? o acceda a la página:
+[Tecnoparque Sena]([https://](https://goo.gl/AZi6JH))
+
+#### Plan de producción
+
+Describe el proceso de fabricación de un producto o los requerimientos para la prestación apropiada de un servicio. Se
+analizan factores como recursos humanos, equipamiento (maquinaria, transporte, mobiliario), tecnología requerida (hardware,
+software, otras tecnologías), planeación de mantenimiento preventivo sin afectar las entregas de producto terminado y, por
+último, el análisis de la infraestructura y las instalaciones, su ubicación, el tamaño y distribución de la planta.
+
+#### Proceso de fabricación y/o prestación del servicio
+
 
 ## Presupuesto
 
