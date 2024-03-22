@@ -1,6 +1,6 @@
 # Formulacion de peoyectos en mi profesion
 
-## Introduccion
+## Introduccion a la Formulacion de peoyectos en mi profesion
 
 El tener un conocimiento algunas veces no es suficiente para lograr el éxito esperado, Solo hay una oportunidad para la
 primera impresión y esa primera impresión se fundamenta en como se elabora y se enfoca un proyecto.

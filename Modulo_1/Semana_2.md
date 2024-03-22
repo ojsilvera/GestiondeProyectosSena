@@ -1,6 +1,6 @@
 # Establecer las actividades, requerimientos y fases que permitan lograr el propósito del proyecto
 
-## Introduccion
+## Introduccion a Establecer las actividades, requerimientos y fases
 
 El análisis de los requerimientos de la población objetivo constituye uno de los pilares necesarios para evidenciar la
 viabilidad del proyecto; es importante clasificarlos y programar su influencia en cada una de las fases del proyecto.

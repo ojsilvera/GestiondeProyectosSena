@@ -1,6 +1,6 @@
 # plan de negocios, presupuestos, cronogramas y software aplicado
 
-## Introducción
+## Introducción al plan de negocios, presupuestos, cronogramas y software aplicado
 
 Al momento de buscar financiación, se debe situar el sector económico donde se inscribe el proyecto y así identificar las
 entidades idóneas para solicitar la financiación. Después, se construyen algunos elementos como un plan de negocios que
